@@ -1,2 +1,2 @@
 # RepositoriodoPai
-Onde os abiguinhos se divertem com os codgozinhos
+Onde os abiguinhos se divertem com os codezinhos
